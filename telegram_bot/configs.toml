@@ -1,0 +1,7 @@
+package main
+
+	[bot]
+		bot_id = ""
+		api_key = ""
+	[database]
+		datapath = ""
