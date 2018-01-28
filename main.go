@@ -1,12 +1,8 @@
 package main
 
 import (
-	"encoding/json"
-	"fmt"
 	"log"
 	"net/http"
-
-	"strconv"
 
 	"github.com/gorilla/mux"
 )
